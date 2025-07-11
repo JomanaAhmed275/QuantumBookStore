@@ -20,4 +20,4 @@ Built using solid Object-Oriented Programming (OOP) principles, this project is 
 
 ---
 🗂 Project Structure
-![OutPut Screanshot](output.png)
+![OutPut Screanshot](output2.png)
