@@ -17,14 +17,15 @@ Built using solid Object-Oriented Programming (OOP) principles, this project is 
   - Checks availability
   - Decides whether to ship or send by email
   - Prints transaction result
+    
 -Enhanced Exception Handling: A dedicated exception package now provides
 custom exceptions for clearer error management:
 
--BookNotFoundException: Thrown when an ISBN search yields no results.
+ -BookNotFoundException: Thrown when an ISBN search yields no results.
 
--UnavailableBookException: Indicates that a book is not currently available for purchase (e.g., Showcase Book).
+ -UnavailableBookException: Indicates that a book is not currently available for purchase (e.g., Showcase Book).
 
--OutOfStockException: Specifically used when a requested book is out of inventory.
+ -OutOfStockException: Specifically used when a requested book is out of inventory.
 ---
 🗂 Project Structure
 ![OutPut Screanshot](output2.png)
